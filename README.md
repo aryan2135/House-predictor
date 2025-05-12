@@ -36,3 +36,7 @@ Clone the repo and install dependencies:
 git clone https://github.com/aryan2135/House-predictor.git
 cd House-predictor
 pip install -r requirements.txt
+```
+```bash
+zenml up
+python run_pipeline.py
